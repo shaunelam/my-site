@@ -112,8 +112,7 @@
 
 @media only screen 
   and (min-width: 375px) 
-  and (max-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+  and (max-width: 812px) { 
     .Project-Container{
       display: flex;
       flex-direction: column;
